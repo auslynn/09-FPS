@@ -1,1 +1,1 @@
-A first person character creation assignment for my C220 class. Creates a simple first person character that can walk and hold a gun.
+(Hardly an FPS) A first person charcater that can move and it holding a gun.
